@@ -9,9 +9,9 @@
 | Dataset ID | `332499` |
 | Location | Nevada |
 | Category | Restaurants |
-| Full dataset size | 10 records |
-| Free sample size | 1 records (10.0%) |
-| Last export | 2026-04-15T10:28:36.921008+00:00 |
+| Full dataset size | 9 records |
+| Free sample size | 1 records (11.11%) |
+| Last export | 2026-04-22T17:59:43.367159+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-nevada-us-sample-332499/releases/download/sample-latest/beamstation_332499_restaurants-us-nv_SAMPLE_DIST.csv) |
 
 ## What is in this sample
