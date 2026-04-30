@@ -1,12 +1,12 @@
 {
-  "export_job_id": "53023568-2646-4525-9c23-0dbbfb5a8c82",
+  "export_job_id": "d8a6d029-5788-48ee-a0e0-c9aff4d08552",
   "id_short": 332499,
-  "published_at": "2026-04-22T19:34:37Z",
+  "published_at": "2026-04-30T07:18:11Z",
   "repo_name": "tech-ready-restaurants-in-nevada-us-sample-332499",
   "sample_asset_name": "beamstation_332499_restaurants-us-nv_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/332499/beamstation_332499_restaurants-us-nv_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "ea25c14d779ec00d331fa15b877f67f6e4e5e782af87406c0e90b17c429b5b67",
-  "sample_size_bytes": 19859,
-  "total_records": 9
+  "sample_records": 12,
+  "sample_sha256": "99ffc50f660ed67b540042ee9e9e9c09fcb786d87cf0fd038c2545029eef9fd2",
+  "sample_size_bytes": 62759,
+  "total_records": 122
 }
